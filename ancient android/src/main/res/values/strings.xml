@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тесты</string>
+	<string name="result">Результат</string>
+	<string name="search_hint">Название</string>
+
+</resources>
